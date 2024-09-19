@@ -11,7 +11,7 @@ const char DEPOSIT_OPTION = '1';
 const char WITHDRAW_OPTION = '2';
 const char BILL_PAYMENT_OPTION = '3';
 const char SEND_MONEY_OPTION = '4';
-
+#we can create a class
 class Bank {
 private:
     struct Transaction {
